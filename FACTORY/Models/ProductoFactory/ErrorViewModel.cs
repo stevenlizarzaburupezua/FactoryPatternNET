@@ -1,4 +1,4 @@
-namespace FACTORY.Models
+namespace FACTORY.Models.ProductoFactory
 {
     public class ErrorViewModel
     {

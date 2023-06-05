@@ -1,6 +1,7 @@
 ﻿using FACTORY.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using FACTORY.Models.ProductoFactory;
 
 namespace FACTORY.Controllers
 {
